@@ -1,9 +1,3 @@
-GIT
-  remote: https://github.com/tkdblake93/tkdblake93_view_tool
-  revision: ffc1a3108870372798b9b1e2ae65dbbd0bb22fb7
-  specs:
-    tkdblake93_view_tool (0.1.0)
-
 GEM
   remote: https://rubygems.org/
   specs:
@@ -171,6 +165,7 @@ GEM
     thor (0.20.3)
     thread_safe (0.3.6)
     tilt (2.0.10)
+    tkdblake93_view_tool (0.1.0)
     turbolinks (5.2.1)
       turbolinks-source (~> 5.2)
     turbolinks-source (5.2.0)
@@ -208,7 +203,7 @@ DEPENDENCIES
   sass-rails (~> 5.0)
   spring
   spring-watcher-listen (~> 2.0.0)
-  tkdblake93_view_tool!
+  tkdblake93_view_tool (~> 0.1.0)
   turbolinks (~> 5)
   tzinfo-data
   uglifier (>= 1.3.0)
