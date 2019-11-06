@@ -166,8 +166,8 @@ body {
  */
 
 .card {
-  margin-top: 100px;
-  margin-bottom: 100px;
+  margin: 100px 2%;
+  padding: 1%;
 }
 
 .card-block {
@@ -175,10 +175,10 @@ body {
   text-align: left;
 }
 
-.auth-links {
-  text-align: center;
-}
-
 .auth-links a {
   color: black;
+}
+
+.register-text {
+  text-align: center;
 }
