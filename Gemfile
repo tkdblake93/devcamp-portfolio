@@ -72,3 +72,4 @@ gem 'carrierwave', '~> 2.0', '>= 2.0.2'
 gem 'mini_magick', '~> 4.9', '>= 4.9.5'
 
 gem 'cocoon', '~> 1.2', '>= 1.2.14'
+gem 'gritter', '~> 1.2'
