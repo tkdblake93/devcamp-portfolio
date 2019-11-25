@@ -4,9 +4,9 @@
     <p class="lead blog-description">An example blog template built with Bootstrap.</p>
     <span>
     	<%= link_to 'Write a New Blog', new_blog_path if logged_in?(:site_admin) %>
-    </span>
+    </span> | 
     <span>
-    	<%= link_to "Topics", topics_path, class: 'btn btn-outline-info' %>
+    	<%= link_to "Topics", topics_path %>
     </span>
   </div>
 </div>
