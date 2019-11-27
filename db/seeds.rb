@@ -42,6 +42,14 @@ puts "10 blog posts created"
 	)
 end
 
+#<Skill id: 1, title: "HTML 5", percent_utilized: 93
+#<Skill id: 2, title: "CSS 3", percent_utilized: 88
+#<Skill id: 3, title: "JavaScript (ES5)", percent_utilized: 82
+#<Skill id: 4, title: "PHP 5", percent_utilized: 76
+#<Skill id: 5, title: "MySQL 5", percent_utilized: 75
+#<Skill id: 6, title: "Ruby on Rails 5", percent_utilized: 71
+#<Skill id: 7, title: "Bootstrap 4", percent_utilized: 67
+
 puts "5 skills created"
 
 8.times do |portfolio_item|
