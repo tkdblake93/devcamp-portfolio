@@ -3,7 +3,7 @@ class TopicsController < ApplicationController
 	layout 'blog'
 
   def index
-  	@topics = Topic.order(title: :asc)
+  	@topics = Topic.order('title ASC')
   end
 
   def show
